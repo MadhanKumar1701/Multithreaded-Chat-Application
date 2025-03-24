@@ -44,3 +44,5 @@ Through this task, I gained practical experience in:
 This task helped me understand how **networking and multithreading** work together in Java and how real-time communication applications can be developed efficiently.  
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/1892fd1c-5cd5-489d-afba-13f727b22ff2)
